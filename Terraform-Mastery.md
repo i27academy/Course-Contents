@@ -1,5 +1,4 @@
 
-# Terraform Course Content
 # Mastering Terraform on GCP: From Fundamentals to Certification
 
 ## `Prerequisite`: Should have knowledge on Google Cloud

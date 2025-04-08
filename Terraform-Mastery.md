@@ -2,6 +2,8 @@
 # Terraform Course Content
 # Mastering Terraform on GCP: From Fundamentals to Certification
 
+## `Prerequisite`: Should have knowledge on Google Cloud
+
 ## Module 1: Introduction to Infrastructure as Code (IaC) and Terraform
 - Challenges with Traditional IT Infrastructure
 - Types of IaC: Declarative vs. Imperative
